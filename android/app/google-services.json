@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "995260568665",
+    "project_id": "flutter-time-tracker-59c26",
+    "storage_bucket": "flutter-time-tracker-59c26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995260568665:android:ce82fef8564ccb08048d48",
+        "android_client_info": {
+          "package_name": "com.example.tempapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995260568665-ens32176gjema2dpmgrh25hais0h4o55.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tempapp",
+            "certificate_hash": "ea90d8efcb4428dcd9d26b8cb8e88e933f5128d5"
+          }
+        },
+        {
+          "client_id": "995260568665-lmc88u4vojo044ofd6smoo9big3ukbjb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB45GAYBvgGxZVCHBTVr5F1AqzvoWZz8Hk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995260568665-lmc88u4vojo044ofd6smoo9big3ukbjb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
